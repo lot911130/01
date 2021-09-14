@@ -1,0 +1,1394 @@
+﻿Log file open, 09/14/21 20:20:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: U01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.249236
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/asua/OneDrive/桌面/3D/CLASS/ue/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:019][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.14-12.20.27:019][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.14-12.20.27:020][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:020][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:032][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.14-12.20.27:032][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.14-12.20.27:033][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.14-12.20.27:033][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.14-12.20.27:033][  0]LogHAL: Display: Platform has ~ 4 GB [4172161024 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.14-12.20.27:033][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.14-12.20.27:033][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.14-12.20.27:033][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.14-12.20.27:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.14-12.20.27:035][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.14-12.20.27:042][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.14-12.20.27:042][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.14-12.20.27:042][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.14-12.20.27:042][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Engine.ini]
+[2021.09.14-12.20.27:042][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Epic Games/3D-END/01/U01/Saved/Config/Windows/Editor.ini]
+[2021.09.14-12.20.27:042][  0]LogInit: Computer: LAPTOP-TVMOLCC5
+[2021.09.14-12.20.27:042][  0]LogInit: User: asua
+[2021.09.14-12.20.27:042][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.14-12.20.27:042][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.14-12.20.27:042][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2021.09.14-12.20.27:042][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.14-12.20.27:042][  0]LogMemory: Process Physical Memory: 135.97 MB used, 135.97 MB peak
+[2021.09.14-12.20.27:042][  0]LogMemory: Process Virtual Memory: 118.52 MB used, 118.52 MB peak
+[2021.09.14-12.20.27:042][  0]LogMemory: Physical Memory: 2906.06 MB used,  1072.82 MB free, 3978.88 MB total
+[2021.09.14-12.20.27:042][  0]LogMemory: Virtual Memory: 134208216.00 MB used,  9514.52 MB free, 134217728.00 MB total
+[2021.09.14-12.20.27:053][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.14-12.20.27:112][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.14-12.20.27:114][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.09.14-12.20.27:114][  0]LogInit: Using OS detected locale (zh-TW).
+[2021.09.14-12.20.27:750][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.14-12.20.27:788][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.14-12.20.27:868][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.14-12.20.27:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.14-12.20.31:647][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.14-12.20.31:647][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.14-12.20.31:647][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.14-12.20.31:647][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.14-12.20.31:784][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.09.14-12.20.31:784][  0]LogD3D11RHI:       128/0/1989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.09.14-12.20.31:806][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.14-12.20.31:807][  0]LogD3D11RHI:       0/0/1989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.14-12.20.31:807][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.14-12.20.31:815][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.14-12.20.31:815][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.14-12.20.31:815][  0]LogWindows: EnumDisplayDevices:
+[2021.09.14-12.20.31:815][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.09.14-12.20.31:816][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.09.14-12.20.31:816][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.09.14-12.20.31:816][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.09.14-12.20.31:816][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2021.09.14-12.20.31:816][  0]LogD3D11RHI:   Driver Version: 27.20.100.8682 (internal:27.20.100.8682, unified:27.20.100.8682)
+[2021.09.14-12.20.31:816][  0]LogD3D11RHI:      Driver Date: 9-5-2020
+[2021.09.14-12.20.31:817][  0]LogRHI: Texture pool is 785 MB (70% of 1122 MB)
+[2021.09.14-12.20.31:922][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.09.14-12.20.31:961][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.09.14-12.20.31:961][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.09.14-12.20.31:961][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.09.14-12.20.31:962][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.09.14-12.20.31:962][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.14-12.20.31:962][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.14-12.20.31:972][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.09.14-12.20.32:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.14-12.20.32:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.14-12.20.32:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.14-12.20.32:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.14-12.20.32:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.14-12.20.32:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.14-12.20.32:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.14-12.20.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.14-12.20.32:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.14-12.20.32:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.14-12.20.32:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.14-12.20.32:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.14-12.20.32:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.14-12.20.32:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.14-12.20.32:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.14-12.20.32:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.14-12.20.32:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.14-12.20.32:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.14-12.20.32:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.14-12.20.32:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.14-12.20.32:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.14-12.20.33:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.14-12.20.33:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.14-12.20.33:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.14-12.20.33:032][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.14-12.20.33:051][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.14-12.20.33:181][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.14-12.20.33:181][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../../../../../../Epic Games/3D-END/01/U01/Intermediate/Shaders/WorkingDirectory/21728/).
+[2021.09.14-12.20.33:182][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/asua/AppData/Local/Temp/UnrealShaderWorkingDir/0E48C4854C835558D3A2AC84C5C3E0D0/'.
+[2021.09.14-12.20.33:182][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.14-12.20.33:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.14-12.20.37:591][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.14-12.20.37:827][  0]LogDerivedDataCache: Loaded boot cache 0.23s 77MB C:/Users/asua/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.14-12.20.37:827][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/asua/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.14-12.20.37:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../../../../../Epic Games/3D-END/01/U01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.14-12.20.37:828][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.14-12.20.37:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../../../../../Epic Games/3D-END/01/U01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.14-12.20.37:828][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.14-12.20.37:845][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.14-12.20.37:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.14-12.20.37:845][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.14-12.20.37:941][  0]LogDerivedDataCache: Speed tests for C:/Users/asua/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2021.09.14-12.20.37:941][  0]LogDerivedDataCache: Display: Performance to C:/Users/asua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.39ms. RandomReadSpeed=12.34MBs, RandomWriteSpeed=62.05MBs. Assigned SpeedClass 'Local'
+[2021.09.14-12.20.37:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/asua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.14-12.20.37:943][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.14-12.20.37:943][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.14-12.20.38:006][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.14-12.20.38:021][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.14-12.20.38:084][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2021.09.14-12.20.38:406][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.14-12.20.38:406][  0]LogInit: Active device profile: [000001E118DD5B00][000001E17DDB9C80 49] Windows
+[2021.09.14-12.20.38:406][  0]LogInit: Profiles: [000001E118DD5B00][000001E17DDB9C80 49] Windows, [000001E118DD2200][000001E17DDC0140 49] WindowsNoEditor, [000001E118DD5F00][000001E17DDC42C0 49] WindowsServer, [000001E118DD2700][000001E17DDC8440 49] WindowsClient, [000001E118DD4E00][000001E17DDCC5C0 49] IOS, [000001E118DD3500][000001E1199DC740 49] iPadAir, [000001E118DD7000][000001E1199E08C0 49] iPadAir2, [000001E118D36B00][000001E1199ECB80 49] IPadPro, [000001E118D36C00][000001E1199E8BC0 49] iPadAir3, [000001E118DD5200][000001E1199F0D40 49] iPadAir4, [000001E118D36800][000001E1199F4EC0 49] iPadMini2, [000001E118DD7100][000001E1199F9040 49] iPadMini3, [000001E118D35800][000001E1199FD1C0 49] iPadMini4, [000001E118DD6A00][000001E119A01340 49] iPadMini5, [000001E118D76400][000001E119A09600 49] iPhone6, [000001E118D76500][000001E119A05640 49] iPodTouch6, [000001E118DD0200][000001E119A0D880 49] iPhone7, [000001E118DD0500][000001E17DDBD8C0 49] iPodTouch7, [000001E118D77C00][000001E119A11A00 49] iPhone5S, [000001E118DD3D00][000001E119A19B80 49] iPhone6Plus, [000001E118D75600][000001E119A1DD00 49] iPhone6S, [000001E118DD1E00][000001E119A201C0 49] iPhone6SPlus, [000001E118D74700][000001E119A24340 49] iPhone7Plus, [000001E118DD1100][000001E119A284C0 49] iPhoneSE, [000001E118D77400][000001E119A2C640 49] iPhone8, [000001E118DD3E00][000001E119A307C0 49] iPhone8Plus, [000001E118D74300][000001E119A34940 49] iPhoneX, [000001E118DD2A00][000001E119A38AC0 49] iPhoneXS, [000001E118D77300][000001E119A3CC40 49] iPhoneXSMax, [000001E118DD1600][000001E119A40DC0 49] iPhoneXR, [000001E118D74D00][000001E119A44F40 49] iPhone11, [000001E118DD3400][000001E119A490C0 49] iPhone11Pro, [000001E118D77200][000001E119A4D240 49] iPhone11ProMax, [000001E118DD3800][000001E119A513C0 49] iPhoneSE2, [000001E118D76F00][000001E119A55540 49] iPhone12Mini, [000001E118DD0100][000001E119A596C0 49] iPhone12, [000001E118D76C00][000001E119A15800 49] iPhone12Pro, [000001E118DD2500][000001E119A5D940 49] iPhone12ProMax, [000001E118DD4A00][000001E119A61A80 49] iPadPro105, [000001E118D75A00][000001E119A69C00 49] iPadPro129, [000001E118DD5400][000001E119A6C0C0 49] iPadPro97, [000001E118D74E00][000001E119A70240 49] iPadPro2_129, [000001E118DD5900][000001E119A743C0 49] iPad5, [000001E118D76D00][000001E119A78540 49] iPad6, [000001E118DD6600][000001E119A7C6C0 49] iPad7, [000001E118DD0C00][000001E119A80840 49] iPad8, [000001E118DD4700][000001E119A849C0 49] iPadPro11, [000001E118DD3C00][000001E119A88B40 49] iPadPro2_11, [000001E118DD7A00][000001E119A8CCC0 49] iPadPro3_129, [000001E118DD3B00][000001E119A90E40 49] iPadPro4_129, [000001E118DD4400][000001E119A94FC0 49] AppleTV, [000001E118DD3600][000001E119A99140 49] AppleTV4K, [000001E118DD6700][000001E119A9D2C0 49] TVOS, [000001E118DD3900][000001E119AA1440 49] Mac, [000001E118DD6100][000001E119AA55C0 49] MacClient, [000001E118DD3700][000001E119AA9740 49] MacNoEditor, [000001E118DD5600][000001E119A65880 49] MacServer, [000001E118DD1F00][000001E119AAD9C0 49] Linux, [000001E118DD6200][000001E119AB1B00 49] LinuxAArch64, [000001E118DD3300][000001E119AB5C40 49] LinuxNoEditor, [000001E118DD4800][000001E119ABC100 49] LinuxAArch64NoEditor, [000001E118DD0900][000001E119AC0280 49] LinuxClient, [000001E118DD7600][000001E119AC4400 49] LinuxAArch64Client, [000001E118DD1D00][000001E119AC8580 49] LinuxServer, [000001E118DD6300][000001E119ACC700 49] LinuxAArch64Server, [000001E118DD3000][000001E119AD0880 49] Android, [000001E118DD4200][000001E119AD4A00 49] Android_Low, [000001E118DD3200][000001E119AD8B80 49] Android_Mid, [000001E118DD5C00][000001E119ADCD00 49] Android_High, [000001E118DD1900][000001E119AE0E80 49] Android_Default, [000001E118DD6900][000001E119AE5000 49] Android_Adreno4xx, [000001E118DD3F00][000001E119AE9180 49] Android_Adreno5xx_Low, [000001E118DD5100][000001E119AED300 49] Android_Adreno5xx, [000001E118DD1A00][000001E119AF1480 49] Android_Adreno6xx, [000001E118DD6000][000001E119AF5600 49] Android_Adreno6xx_Vulkan, [000001E118DD1C00][000001E119AF9780 49] Android_Mali_T6xx, [000001E118DD6C00][000001E119AB98C0 49] Android_Mali_T7xx, [000001E118DD0E00][000001E119AFDA00 49] Android_Mali_T8xx, [000001E118DD7200][000001E10A4CBB40 49] Android_Mali_G71, [000001E118DD0F00][000001E10A4CFC80 49] Android_Mali_G72, [000001E118DD7400][000001E10A4D6140 49] Android_Mali_G72_Vulkan, [000001E118DD2300][000001E10A4DA2C0 49] Android_Mali_G76, [000001E118DD4D00][000001E10A4DE440 49] Android_Mali_G76_Vulkan, [000001E118DD0A00][000001E10A4E25C0 49] Android_Mali_G77, [000001E118DD5500][000001E10A4E6740 49] Android_Mali_G77_Vulkan, [000001E118DD3100][000001E10A4EA8C0 49] Android_Vulkan_SM5, [000001E118DD6E00][000001E10A4EEA40 49] Android_PowerVR_G6xxx, [000001E118DD0600][000001E10A4F2BC0 49] Android_PowerVR_GT7xxx, [000001E118D35E00][000001E10F322D40 49] Android_PowerVR_GE8xxx, [000001E118D74F00][000001E10F326EC0 49] Android_PowerVR_GM9xxx, [000001E118D34800][000001E10F32B040 49] Android_PowerVR_GM9xxx_Vulkan, [000001E118D77700][000001E10F32F1C0 49] Android_TegraK1, [000001E118D34100][000001E10F333340 49] Android_Unknown_Vulkan, [000001E118D75400][000001E10F3374C0 49] Lumin, [000001E118D37100][000001E10F33B640 49] Lumin_Desktop, [000001E118D74C00][000001E10F33F7C0 49] HoloLens, 
+[2021.09.14-12.20.38:619][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.14-12.20.38:619][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.14-12.20.38:619][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.14-12.20.38:619][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.14-12.20.38:619][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.14-12.20.38:681][  0]LogNetVersion: U01 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3099941247)
+[2021.09.14-12.20.44:078][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.14-12.20.44:199][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.114616 seconds
+[2021.09.14-12.20.44:208][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.14-12.20.44:209][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.14-12.20.44:209][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.14-12.20.45:742][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.14-12.20.45:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.14-12.20.46:644][  0]SourceControl: Source control is disabled
+[2021.09.14-12.20.46:644][  0]SourceControl: Source control is disabled
+[2021.09.14-12.20.46:655][  0]SourceControl: Source control is disabled
+[2021.09.14-12.20.46:671][  0]SourceControl: Source control is disabled
+[2021.09.14-12.20.46:687][  0]LogUProjectInfo: Found projects:
+[2021.09.14-12.20.46:696][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-12.20.46:697][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-12.20.46:714][  0]SourceControl: Source control is disabled
+[2021.09.14-12.20.46:836][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.14-12.20.46:880][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.14-12.20.46:880][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.14-12.20.47:023][  0]LogCollectionManager: Loaded 0 collections in 0.004765 seconds
+[2021.09.14-12.20.47:110][  0]LogFileCache: Scanning file cache for directory 'C:/Epic Games/3D-END/01/U01/Saved/Collections/' took 0.00s
+[2021.09.14-12.20.47:110][  0]LogFileCache: Scanning file cache for directory 'C:/Epic Games/3D-END/01/U01/Content/Developers/asua/Collections/' took 0.00s
+[2021.09.14-12.20.47:110][  0]LogFileCache: Scanning file cache for directory 'C:/Epic Games/3D-END/01/U01/Content/Collections/' took 0.00s
+[2021.09.14-12.20.47:110][  0]LogOcInput: OculusInput pre-init called
+[2021.09.14-12.20.47:138][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.14-12.20.47:138][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.14-12.20.47:402][  0]LogEngine: Initializing Engine...
+[2021.09.14-12.20.47:411][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.14-12.20.47:411][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.14-12.20.47:421][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2021.09.14-12.20.47:617][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.14-12.20.47:728][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.14-12.20.47:751][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.14-12.20.47:763][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.14-12.20.47:763][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-12.20.47:765][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-12.20.47:766][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-12.20.47:771][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-12.20.47:772][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-12.20.47:820][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-12.20.47:820][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-12.20.48:140][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.09.14-12.20.48:147][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-12.20.48:154][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-12.20.48:155][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-12.20.48:160][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-12.20.48:161][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-12.20.48:162][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-12.20.48:163][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-12.20.48:163][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-12.20.48:163][  0]LogInit: FAudioDevice initialized.
+[2021.09.14-12.20.48:167][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.14-12.20.48:169][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.14-12.20.48:301][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/asua/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.14-12.20.48:310][  0]LogInit: Texture streaming: Enabled
+[2021.09.14-12.20.48:377][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.14-12.20.48:392][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.14-12.20.48:399][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.14-12.20.48:444][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.14-12.20.48:577][  0]LogInit: Transaction tracking system initialized
+[2021.09.14-12.20.49:311][  0]BlueprintLog: New page: Editor Load
+[2021.09.14-12.20.49:931][  0]LocalizationService: Localization service is disabled
+[2021.09.14-12.20.50:060][  0]TimingProfiler: Initialize
+[2021.09.14-12.20.50:063][  0]TimingProfiler: OnSessionChanged
+[2021.09.14-12.20.50:064][  0]LoadingProfiler: Initialize
+[2021.09.14-12.20.50:064][  0]LoadingProfiler: OnSessionChanged
+[2021.09.14-12.20.50:065][  0]NetworkingProfiler: Initialize
+[2021.09.14-12.20.50:065][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.14-12.20.50:065][  0]MemoryProfiler: Initialize
+[2021.09.14-12.20.50:065][  0]MemoryProfiler: OnSessionChanged
+[2021.09.14-12.20.50:267][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-12.20.50:267][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-12.20.50:470][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.14-12.20.50:470][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.14-12.20.50:943][  0]LogFileCache: Scanning file cache for directory 'C:/Epic Games/3D-END/01/U01/Content/' took 0.18s
+[2021.09.14-12.20.51:350][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.14-12.20.51:370][  0]SourceControl: Source control is disabled
+[2021.09.14-12.20.51:374][  0]LogUnrealEdMisc: Loading editor; pre map load, took 31.763
+[2021.09.14-12.20.51:377][  0]Cmd: MAP LOAD FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.14-12.20.51:387][  0]LightingResults: New page: Lighting Build
+[2021.09.14-12.20.51:403][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-12.20.51:408][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-12.20.51:417][  0]MapCheck: New page: Map Check
+[2021.09.14-12.20.51:417][  0]LightingResults: New page: Lighting Build
+[2021.09.14-12.20.51:480][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.09.14-12.20.52:989][  0]LogLinker: Warning: [AssetLog] C:\Epic Games\3D-END\01\U01\Content\怪物\warrok_w_kurniawan.uasset: Failed to load '/Game/怪物/warrok_w_kurniawan_PhysicsAsset': Can't find file.
+[2021.09.14-12.20.52:990][  0]LogLinker: Warning: [AssetLog] C:\Epic Games\3D-END\01\U01\Content\怪物\warrok_w_kurniawan.uasset: Failed to load '/Game/怪物/warrok_w_kurniawan_PhysicsAsset': Can't find file.
+[2021.09.14-12.20.52:990][  0]LogLinker: Warning: [AssetLog] C:\Epic Games\3D-END\01\U01\Content\怪物\warrok_w_kurniawan.uasset: Failed to load '/Game/怪物/warrok_w_kurniawan_PhysicsAsset': Can't find file.
+[2021.09.14-12.20.56:517][  0]LogLinker: Warning: [AssetLog] C:\Epic Games\3D-END\01\U01\Content\怪物\warrok_w_kurniawan.uasset: Failed to load '/Game/怪物/warrok_w_kurniawan_PhysicsAsset': Can't find file.
+[2021.09.14-12.20.56:517][  0]LoadErrors: Failed to load /Game/怪物/warrok_w_kurniawan_PhysicsAsset.warrok_w_kurniawan_PhysicsAsset Referenced by warrok_w_kurniawan
+[2021.09.14-12.20.58:652][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '遊戲場景'.
+[2021.09.14-12.20.58:654][  0]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-12.20.58:794][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.14-12.20.58:889][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.09.14-12.20.58:892][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.14-12.20.58:894][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.998ms to complete.
+[2021.09.14-12.20.58:894][  0]LogFileHelpers: Loading map '遊戲場景' took 7.518
+[2021.09.14-12.20.58:975][  0]LogUnrealEdMisc: Total Editor Startup Time, took 39.364
+[2021.09.14-12.20.59:144][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微軟注音).
+[2021.09.14-12.20.59:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-12.20.59:409][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-12.20.59:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-12.20.59:431][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-12.20.59:523][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0156 seconds. Added 3601 classes and 859 folders.
+[2021.09.14-12.20.59:563][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.09.14-12.20.59:602][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.14-12.20.59:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-12.20.59:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000489
+[2021.09.14-12.20.59:624][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.14-12.20.59:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.14-12.20.59:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000493
+[2021.09.14-12.20.59:633][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.14-12.20.59:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.14-12.20.59:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000498
+[2021.09.14-12.20.59:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-12.20.59:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-12.20.59:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000521
+[2021.09.14-12.20.59:657][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.14-12.20.59:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.14-12.20.59:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000525
+[2021.09.14-12.20.59:666][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.14-12.20.59:666][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:666][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.14-12.20.59:666][  0]LogPakFile: OnPakFileMounted2Time == 0.000530
+[2021.09.14-12.20.59:676][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.14-12.20.59:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.14-12.20.59:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000535
+[2021.09.14-12.20.59:688][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.14-12.20.59:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.14-12.20.59:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000543
+[2021.09.14-12.20.59:701][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.14-12.20.59:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.14-12.20.59:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000548
+[2021.09.14-12.20.59:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.14-12.20.59:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.14-12.20.59:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000552
+[2021.09.14-12.20.59:722][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.14-12.20.59:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.14-12.20.59:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000557
+[2021.09.14-12.20.59:734][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.14-12.20.59:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.14-12.20.59:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000562
+[2021.09.14-12.20.59:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-12.20.59:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-12.20.59:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000566
+[2021.09.14-12.20.59:757][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.14-12.20.59:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.14-12.20.59:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000576
+[2021.09.14-12.20.59:770][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.14-12.20.59:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.14-12.20.59:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000581
+[2021.09.14-12.20.59:782][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.14-12.20.59:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-12.20.59:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000586
+[2021.09.14-12.20.59:794][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.14-12.20.59:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.14-12.20.59:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000591
+[2021.09.14-12.20.59:805][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.14-12.20.59:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.14-12.20.59:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000597
+[2021.09.14-12.20.59:816][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-12.20.59:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-12.20.59:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000603
+[2021.09.14-12.20.59:833][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-12.20.59:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-12.20.59:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000608
+[2021.09.14-12.20.59:842][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.14-12.20.59:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-12.20.59:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000612
+[2021.09.14-12.20.59:852][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.14-12.20.59:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.14-12.20.59:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000617
+[2021.09.14-12.20.59:863][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.14-12.20.59:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.14-12.20.59:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000622
+[2021.09.14-12.20.59:873][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.14-12.20.59:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.14-12.20.59:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000627
+[2021.09.14-12.20.59:884][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-12.20.59:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-12.20.59:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000632
+[2021.09.14-12.20.59:894][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.14-12.20.59:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-12.20.59:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.14-12.20.59:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000637
+[2021.09.14-12.21.00:628][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.14-12.21.00:641][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.09.14-12.21.00:880][  0]LogSlate: Took 0.019721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.14-12.21.00:907][  0]LogSlate: Took 0.025548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.14-12.21.00:921][  0]LogSlate: Took 0.009981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.14-12.21.00:950][  0]LogSlate: Took 0.012073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.14-12.21.01:244][  0]LogRenderer: Reallocating scene render targets to support 1228x292 Format 10 NumSamples 1 (Frame:1).
+[2021.09.14-12.21.02:551][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.09.14-12.21.02:551][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.09.14-12.21.02:551][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.09.14-12.21.02:551][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.09.14-12.21.02:551][  0]LogLoad: (Engine Initialization) Total time: 42.94 seconds
+[2021.09.14-12.21.02:551][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.14-12.21.02:552][  0]LogInit: First time updating LLM stats...
+[2021.09.14-12.21.02:775][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.14-12.21.03:049][  0]LogSlate: Took 0.031294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.14-12.21.03:318][  2]LogSlate: Took 0.012071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-12.21.03:395][  3]LogAssetRegistry: Asset discovery search completed in 25.3119 seconds
+[2021.09.14-12.21.03:400][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001132 seconds (updated 0 objects)
+[2021.09.14-12.21.03:981][  6]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-12.21.27:204][375]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.21.27:970][375]LogBlueprintEditor: Perf: 0.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.09.14-12.21.27:970][375]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.09.14-12.21.28:750][375]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 126 classes and 0 folders.
+[2021.09.14-12.21.31:523][375]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-12.21.34:235][375]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0005 seconds. Added 8 classes and 3 folders.
+[2021.09.14-12.21.34:249][375]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.09.14-12.21.35:012][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.09.14-12.21.35:042][375]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0032 seconds. Added 1 classes and 0 folders.
+[2021.09.14-12.21.35:936][375]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BP/BS-怪物等待走路與跑步.BS-怪物等待走路與跑步
+[2021.09.14-12.21.36:280][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-12.21.36:785][375]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BP/BA-怪物動畫.BA-怪物動畫
+[2021.09.14-12.21.36:817][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-12.21.36:842][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.42:217][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.43:262][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.43:778][375]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-12.21.47:111][375]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-12.21.50:594][375]LogSlate: Took 0.090083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.14-12.21.55:478][376]LogAnalytics: Warning: EventCache either took too long to flush (1.140 ms) or had a very large payload (3.222 KB, 9 events). Listing events in the payload for investigation:
+[2021.09.14-12.21.55:478][376]LogAnalytics: Warning:     SessionStart,767
+[2021.09.14-12.21.55:478][376]LogAnalytics: Warning:     Editor.ProgramStarted,101
+[2021.09.14-12.21.55:478][376]LogAnalytics: Warning:     Editor.Usage.Project,273
+[2021.09.14-12.21.55:478][376]LogAnalytics: Warning:     Editor.Performance.Startup,92
+[2021.09.14-12.21.55:478][376]LogAnalytics: Warning:     Editor.Usage.AssetCounts,171
+[2021.09.14-12.21.55:479][376]LogAnalytics: Warning:     Editor.Usage.AssetClasses,1329
+[2021.09.14-12.21.55:479][376]LogAnalytics: Warning:     Editor.Performance.FrameRate,116
+[2021.09.14-12.21.55:479][376]LogAnalytics: Warning:     Editor.Usage.BlueprintCreated,215
+[2021.09.14-12.21.55:479][376]LogAnalytics: Warning:     Editor.Usage.BlueprintCreated,222
+[2021.09.14-12.21.58:895][379]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.58:971][380]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:090][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:206][382]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:377][383]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:533][384]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:595][385]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:683][386]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:740][387]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:872][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:934][389]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.21.59:996][390]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.22.00:069][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-怪物動畫_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA-怪物動畫_C_0
+	Function /Game/BP/BA-怪物動畫.BA-怪物動畫_C:ExecuteUbergraph_BA-怪物動畫:0040
+[2021.09.14-12.22.11:583][541]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.09.14-12.22.27:933][688]LogSlate: Took 0.011569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.14-12.22.33:100][776]LogRenderer: Reallocating scene render targets to support 1228x540 Format 10 NumSamples 1 (Frame:1).
+[2021.09.14-12.22.48:416][905]LogAnalytics: Warning: EventCache either took too long to flush (2.865 ms) or had a very large payload (0.433 KB, 1 events). Listing events in the payload for investigation:
+[2021.09.14-12.22.48:419][905]LogAnalytics: Warning:     Editor.Usage.Heartbeat,430
+[2021.09.14-12.23.10:456][138]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.23.13:473][138]LogUObjectHash: Compacting FUObjectHashTables data took  62.27ms
+[2021.09.14-12.23.14:788][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.23.15:082][147]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物06D2C7174066090BAC0C28817D722C7C.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.23.15:713][147]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.23.15:713][147]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.23.47:679][461]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.09.14-12.23.55:705][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS-怪物等待走路與跑步" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BS-怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-12.23.55:727][537]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BS-怪物等待走路與跑步B603D4EE4BF4C295B1627EA86768E709.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BS-怪物等待走路與跑步.uasset'
+[2021.09.14-12.23.55:814][537]AssetCheck: New page: Asset Save: BS-怪物等待走路與跑步
+[2021.09.14-12.23.55:814][537]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS-怪物等待走路與跑步.BS-怪物等待走路與跑步
+[2021.09.14-12.26.05:745][210]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.26.06:130][210]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2021.09.14-12.26.07:070][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.26.07:203][222]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物405D2DE044F1AAC5A7699B917C60DFF8.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.26.07:244][222]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.26.07:244][222]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.26.14:950][299]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-玩家動畫_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA-玩家動畫_C_0
+	Function /Game/BP/BA-玩家動畫.BA-玩家動畫_C:ExecuteUbergraph_BA-玩家動畫:0239
+[2021.09.14-12.26.14:951][299]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-玩家動畫_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA-玩家動畫_C_0
+	Function /Game/BP/BA-玩家動畫.BA-玩家動畫_C:ExecuteUbergraph_BA-玩家動畫:02C9
+[2021.09.14-12.26.14:951][299]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA-玩家動畫_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA-玩家動畫_C_0
+	Function /Game/BP/BA-玩家動畫.BA-玩家動畫_C:ExecuteUbergraph_BA-玩家動畫:02FB
+[2021.09.14-12.26.18:039][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.26.48:387][516]LogAnalytics: Warning: EventCache either took too long to flush (1.968 ms) or had a very large payload (0.771 KB, 3 events). Listing events in the payload for investigation:
+[2021.09.14-12.26.48:396][516]LogAnalytics: Warning:     Editor.Usage.Heartbeat,428
+[2021.09.14-12.26.48:396][516]LogAnalytics: Warning:     Editor.Usage.PawnPlacement,119
+[2021.09.14-12.26.48:398][516]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.Compile,229
+[2021.09.14-12.27.48:478][231]LogAnalytics: Warning: EventCache either took too long to flush (3.768 ms) or had a very large payload (0.438 KB, 1 events). Listing events in the payload for investigation:
+[2021.09.14-12.27.48:573][231]LogAnalytics: Warning:     Editor.Usage.Heartbeat,435
+[2021.09.14-12.30.15:680][859]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.30.16:810][859]LogUObjectHash: Compacting FUObjectHashTables data took  47.77ms
+[2021.09.14-12.30.17:677][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.30.17:773][866]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈C716B00841A40F453556D4A670071DE0.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.30.18:201][866]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.30.18:205][866]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.30.52:835][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.30.52:866][240]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈F0E3EC8040477DEE0C0F3D806C66B98E.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.30.52:929][240]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.30.52:929][240]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.32.01:004][418]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.32.01:328][418]LogUObjectHash: Compacting FUObjectHashTables data took  10.80ms
+[2021.09.14-12.32.02:230][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.32.02:419][429]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物2B793AD7475DE774475242950CFFF0D4.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.32.02:463][429]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.32.02:463][429]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.32.32:778][879]LogSlate: Took 0.014318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.14-12.32.38:578][  6]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.32.38:824][  6]LogUObjectHash: Compacting FUObjectHashTables data took  18.43ms
+[2021.09.14-12.32.39:598][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.32.39:737][ 15]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物2D081B9B412F77D69A5CE79DE9C5C042.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.32.39:771][ 15]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.32.39:771][ 15]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.32.40:677][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.09.14-12.32.40:856][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.14-12.32.41:642][ 16]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_Auto166772D9548106685E382CE973D727B0F.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto1.umap'
+[2021.09.14-12.32.41:750][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 1.147
+[2021.09.14-12.32.41:757][ 16]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.147
+[2021.09.14-12.32.59:607][308]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.32.59:768][308]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2021.09.14-12.33.00:920][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.33.01:036][323]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物DDCD4BE74DFA10FD490E60BA045DFFE0.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.33.01:064][323]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.33.01:065][323]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.33.06:675][410]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.33.06:886][410]LogUObjectHash: Compacting FUObjectHashTables data took  10.79ms
+[2021.09.14-12.33.07:604][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.33.07:715][418]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物095BB41849A4902B2763D3A2B710C04C.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.33.07:743][418]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.33.07:743][418]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.33.50:998][250]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.33.51:166][250]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2021.09.14-12.33.51:890][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.33.51:967][258]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物9B9EC1FF43A5997EAB7D528035CBB872.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.33.51:997][258]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.33.51:997][258]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.35.11:537][869]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.35.11:777][869]LogUObjectHash: Compacting FUObjectHashTables data took  12.09ms
+[2021.09.14-12.35.12:647][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.35.12:732][880]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物F7DBC0DE4452FA4B8085228EADFDC5BC.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.35.12:773][880]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.35.12:773][880]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.35.45:436][416]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.35.45:637][416]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2021.09.14-12.35.46:481][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.35.46:572][425]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物82AB59F448B22EEB1075DDBEE843DA3F.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.35.46:614][425]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.35.46:614][425]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.37.21:498][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.37.21:595][890]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物16F0FB1B4E2A9FD78D2DA7919EDA2E56.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.37.21:686][890]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.37.21:686][890]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.37.25:685][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan_Physics" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset" SILENT=true
+[2021.09.14-12.37.25:989][913]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_PhysicsC91134EF4549F892A7142CBB0AA0E9C9.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset'
+[2021.09.14-12.37.26:035][913]AssetCheck: New page: Asset Save: warrok_w_kurniawan_Physics
+[2021.09.14-12.37.26:035][913]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-12.37.30:404][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS-怪物等待走路與跑步" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BS-怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-12.37.30:461][928]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BS-怪物等待走路與跑步0C99876F437421519DFE7E89848D6C62.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BS-怪物等待走路與跑步.uasset'
+[2021.09.14-12.37.30:525][928]AssetCheck: New page: Asset Save: BS-怪物等待走路與跑步
+[2021.09.14-12.37.30:525][928]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS-怪物等待走路與跑步.BS-怪物等待走路與跑步
+[2021.09.14-12.37.33:343][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA-怪物動畫" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BA-怪物動畫.uasset" SILENT=true
+[2021.09.14-12.37.33:487][956]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BA-怪物動畫A6E5084E4124C5175DEBCE895173412F.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BA-怪物動畫.uasset'
+[2021.09.14-12.37.33:525][956]AssetCheck: New page: Asset Save: BA-怪物動畫
+[2021.09.14-12.37.33:526][956]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA-怪物動畫.BA-怪物動畫
+[2021.09.14-12.37.36:089][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.37.36:117][982]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈123492924DBC230B81C483A1C60F3F91.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.37.36:154][982]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.37.36:154][982]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.38.55:132][831]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.38.57:115][831]LogUObjectHash: Compacting FUObjectHashTables data took 181.44ms
+[2021.09.14-12.39.00:075][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.39.00:104][858]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈CB23433E42E63BEC5F11F093CBBB0729.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.39.00:198][858]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.39.00:198][858]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.39.04:297][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP-玩家武器.BP-玩家武器
+[2021.09.14-12.39.47:178][398]BlueprintLog: New page: Compile BP-玩家武器
+[2021.09.14-12.39.47:973][398]LogUObjectHash: Compacting FUObjectHashTables data took  44.13ms
+[2021.09.14-12.40.19:370][850]BlueprintLog: New page: Compile BP-玩家武器
+[2021.09.14-12.40.19:853][850]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2021.09.14-12.40.22:015][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-玩家武器" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset" SILENT=true
+[2021.09.14-12.40.22:347][870]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-玩家武器91AAA2664B65E4946E238483AEB7599D.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset'
+[2021.09.14-12.40.22:778][870]AssetCheck: New page: Asset Save: BP-玩家武器
+[2021.09.14-12.40.22:780][870]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-玩家武器.BP-玩家武器
+[2021.09.14-12.40.48:469][148]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.40.48:655][148]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.09.14-12.40.49:461][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.40.49:487][151]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈75318CF84CA4F417F5E946BCD8CBBBE3.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.40.49:526][151]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.40.49:526][151]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.41.08:098][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.41.08:127][351]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈6F39F1CE40EFA13D5A4B57922B2C1E53.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.41.08:187][351]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.41.08:187][351]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.42.36:465][ 10]BlueprintLog: New page: Compile BP-玩家武器
+[2021.09.14-12.42.36:834][ 10]LogUObjectHash: Compacting FUObjectHashTables data took  16.04ms
+[2021.09.14-12.42.37:625][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-玩家武器" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset" SILENT=true
+[2021.09.14-12.42.37:810][ 18]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-玩家武器81F96AC64C520AACD305D29735BC4926.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset'
+[2021.09.14-12.42.38:340][ 18]AssetCheck: New page: Asset Save: BP-玩家武器
+[2021.09.14-12.42.38:340][ 18]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-玩家武器.BP-玩家武器
+[2021.09.14-12.43.41:861][208]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.09.14-12.43.42:039][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.14-12.43.42:611][208]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_Auto2D66B525A443A9DE114A05A888CB623FC.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto2.umap'
+[2021.09.14-12.43.42:620][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.914
+[2021.09.14-12.43.42:620][208]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.914
+[2021.09.14-12.43.42:628][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP-怪物] ([1] browsable assets)...
+[2021.09.14-12.43.42:681][208]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP-怪物.BP-怪物]
+[2021.09.14-12.43.42:681][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP-怪物]
+[2021.09.14-12.43.42:682][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-12.43.42:798][208]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物_Auto2320C43814C50A83ECA7B4EBA772E15FC.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto2.uasset'
+[2021.09.14-12.43.42:802][208]LogFileHelpers: Auto-saving content packages took 0.181
+[2021.09.14-12.43.43:537][221]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.43.43:760][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.09.14-12.43.44:546][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.43.44:613][229]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物893F72AB4AB2060CBB0426905C966DE4.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.43.44:650][229]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.43.44:650][229]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.43.59:434][447]BlueprintLog: New page: Compile BP-玩家武器
+[2021.09.14-12.43.59:625][447]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
+[2021.09.14-12.44.00:420][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-玩家武器" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset" SILENT=true
+[2021.09.14-12.44.00:503][455]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-玩家武器B1344D5A461D4E8216C9F5ABD1370AEE.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset'
+[2021.09.14-12.44.00:532][455]AssetCheck: New page: Asset Save: BP-玩家武器
+[2021.09.14-12.44.00:532][455]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-玩家武器.BP-玩家武器
+[2021.09.14-12.44.40:855][ 13]BlueprintLog: New page: Compile BP-玩家武器
+[2021.09.14-12.44.41:081][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2021.09.14-12.44.41:794][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-玩家武器" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset" SILENT=true
+[2021.09.14-12.44.41:889][ 20]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-玩家武器3292AC6C483AFE71CFE95BA8DE7A027A.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset'
+[2021.09.14-12.44.41:949][ 20]AssetCheck: New page: Asset Save: BP-玩家武器
+[2021.09.14-12.44.41:949][ 20]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-玩家武器.BP-玩家武器
+[2021.09.14-12.46.53:960][849]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.46.54:194][849]LogUObjectHash: Compacting FUObjectHashTables data took  11.97ms
+[2021.09.14-12.46.55:055][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.46.55:180][858]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物F8ACFB4A474993EB24FB118A6744C90C.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.46.55:248][858]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.46.55:248][858]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.47.38:795][510]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.47.39:254][510]LogUObjectHash: Compacting FUObjectHashTables data took  22.26ms
+[2021.09.14-12.47.40:630][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.47.40:661][524]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈97BF874B4C75D909AD7EC58360181922.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.47.40:710][524]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.47.40:710][524]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.47.42:509][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.47.42:532][551]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈56EC78794D8709546938DC8BE44ED2FE.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.47.42:572][551]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.47.42:572][551]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.48.17:089][ 75]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.48.17:305][ 75]LogUObjectHash: Compacting FUObjectHashTables data took  12.00ms
+[2021.09.14-12.48.18:552][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.48.18:600][ 88]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈C27C057A4233A0EA4E19B29D3B7532AD.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.48.18:637][ 88]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.48.18:637][ 88]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.51.22:971][  9]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.51.23:212][  9]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2021.09.14-12.51.24:097][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.51.24:184][ 15]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈634F06224C694873CAEA1D8A97B1A637.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.51.24:255][ 15]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.51.24:255][ 15]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.52.08:035][847]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.52.08:214][847]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2021.09.14-12.52.09:041][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.52.09:115][853]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈2B06ED834101724975B425AD82B5EC40.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.52.09:141][853]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.52.09:141][853]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.54.22:485][127]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.54.22:674][127]LogUObjectHash: Compacting FUObjectHashTables data took  10.65ms
+[2021.09.14-12.54.23:593][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.54.23:680][135]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈E8EE514A42805A52E323F0A69D0C04F9.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.54.23:723][135]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.54.23:723][135]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.54.26:207][168]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2021.09.14-12.54.26:221][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.14-12.54.26:481][168]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_Auto3E854BDA245677170C63506B922A6B50E.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto3.umap'
+[2021.09.14-12.54.26:491][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.362
+[2021.09.14-12.54.26:491][168]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.362
+[2021.09.14-12.55.15:211][ 58]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.55.15:376][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2021.09.14-12.55.16:330][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.55.16:410][ 66]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈FD390FD649233FCB8FDB039D20882004.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.55.16:452][ 66]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.55.16:452][ 66]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.56.17:470][500]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.56.17:675][500]LogUObjectHash: Compacting FUObjectHashTables data took  10.44ms
+[2021.09.14-12.56.18:548][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.56.18:619][506]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈2CBC02334ED0841716DCB0A649CE9F24.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.56.18:678][506]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.56.18:678][506]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.57.31:242][670]BlueprintLog: New page: Compile BP-子彈
+[2021.09.14-12.57.31:512][670]LogUObjectHash: Compacting FUObjectHashTables data took  16.32ms
+[2021.09.14-12.57.32:884][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.57.32:992][683]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈DC22055E42AD8C0BC6DF72A98455DB80.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.57.33:068][683]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.57.33:068][683]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.57.49:844][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-12.57.49:895][944]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈DF158E56405D51DC22AA4384E897DD43.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-12.57.49:940][944]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-12.57.49:941][944]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-12.58.48:292][ 32]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-12.58.48:597][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2021.09.14-12.58.49:395][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-12.58.49:529][ 39]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物F92C95C14C6BD9EAA2CA9785BC34FB8D.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-12.58.49:574][ 39]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-12.58.49:574][ 39]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-12.59.07:576][213]LogUObjectHash: Compacting FUObjectHashTables data took  12.67ms
+[2021.09.14-12.59.08:968][213]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-12.59.10:923][213]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-12.59.10:928][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-12.59.11:206][213]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-12.59.36:619][213]LogUObjectHash: Compacting FUObjectHashTables data took  73.45ms
+[2021.09.14-12.59.37:101][213]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2021.09.14-12.59.37:170][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.14-12.59.48:483][264]LogAnalytics: Warning: EventCache either took too long to flush (19.285 ms) or had a very large payload (0.438 KB, 1 events). Listing events in the payload for investigation:
+[2021.09.14-12.59.48:490][264]LogAnalytics: Warning:     Editor.Usage.Heartbeat,435
+[2021.09.14-13.00.47:583][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-13.00.47:683][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.09.14-13.00.48:092][809]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景2B2E25C24824D99DD61C1988DD6035B6.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景.umap'
+[2021.09.14-13.00.49:295][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-13.00.49:678][809]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_BuiltDataF783E50E446CF0751C74F7A30AA59E39.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-13.00.50:189][809]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-13.00.50:195][809]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-13.00.50:199][809]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-13.00.51:409][818]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2021.09.14-13.00.53:555][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.14-13.01.07:858][235]LogSlate: Window 'New Physics Asset' being destroyed
+[2021.09.14-13.01.08:204][235]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.01.08:211][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.01.08:486][235]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-13.01.08:624][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.09.14-13.01.20:709][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan_Physics" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset" SILENT=true
+[2021.09.14-13.01.20:830][245]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_PhysicsB937C1704ABEB6E5F0CD019FBEC9DB2E.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset'
+[2021.09.14-13.01.21:616][245]AssetCheck: New page: Asset Save: warrok_w_kurniawan_Physics
+[2021.09.14-13.01.21:619][245]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-13.10.50:738][591]LogUObjectHash: Compacting FUObjectHashTables data took 182.99ms
+[2021.09.14-13.10.51:351][591]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 3.457
+[2021.09.14-13.10.51:388][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物/warrok_w_kurniawan] ([1] browsable assets)...
+[2021.09.14-13.10.51:818][591]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/怪物/warrok_w_kurniawan.warrok_w_kurniawan]
+[2021.09.14-13.10.51:818][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物/warrok_w_kurniawan]
+[2021.09.14-13.10.52:410][591]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_Auto45DC1BD97401F89A5BAE961A3A447111F.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/怪物/warrok_w_kurniawan_Auto4.uasset'
+[2021.09.14-13.10.52:445][591]LogFileHelpers: Auto-saving content packages took 1.083
+[2021.09.14-13.20.53:464][958]LogUObjectHash: Compacting FUObjectHashTables data took   9.50ms
+[2021.09.14-13.20.53:481][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.161
+[2021.09.14-13.20.53:499][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP-怪物] ([1] browsable assets)...
+[2021.09.14-13.20.53:500][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP-怪物]
+[2021.09.14-13.20.53:501][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-13.20.53:850][958]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物_Auto5B37308974F6374EE4ABCC6AA22B3EBE8.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto5.uasset'
+[2021.09.14-13.20.53:858][958]LogFileHelpers: Auto-saving content packages took 0.377
+[2021.09.14-13.20.57:467][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.20.57:559][ 12]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物739B709E450DD644A7E1A081A9406148.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.20.57:997][ 12]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.20.58:002][ 12]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.23.24:341][564]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.23.28:566][564]LogUObjectHash: Compacting FUObjectHashTables data took  79.72ms
+[2021.09.14-13.23.29:561][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.23.29:760][564]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物76F1271045484D0EB67E56B78136F445.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.23.29:867][564]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.23.29:868][564]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.24.00:067][998]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.24.00:428][998]LogUObjectHash: Compacting FUObjectHashTables data took  22.36ms
+[2021.09.14-13.24.01:758][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.24.01:916][ 16]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物99A794F04AD0BD1AA541C4B115952E62.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.24.01:967][ 16]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.24.01:967][ 16]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.25.23:498][708]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.25.23:750][708]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2021.09.14-13.25.24:453][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.25.24:570][716]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物1FD2E4B04D7B835518F44B986029C44C.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.25.24:642][716]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.25.24:642][716]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.26.20:581][578]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.26.20:788][578]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2021.09.14-13.26.21:518][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.26.21:606][587]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物1CBF90CB415138E86C75699C87E03050.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.26.21:647][587]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.26.21:648][587]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.27.01:723][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan_Physics" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset" SILENT=true
+[2021.09.14-13.27.01:863][900]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_PhysicsE7CAE37949AAB6F688A098B00C3C1D97.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset'
+[2021.09.14-13.27.05:983][900]AssetCheck: New page: Asset Save: warrok_w_kurniawan_Physics
+[2021.09.14-13.27.05:988][900]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-13.28.07:682][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan_Physics" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset" SILENT=true
+[2021.09.14-13.28.07:755][365]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_Physics25E8AB3D4D2C304318473384D11586C0.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset'
+[2021.09.14-13.28.08:261][365]AssetCheck: New page: Asset Save: warrok_w_kurniawan_Physics
+[2021.09.14-13.28.08:262][365]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-13.29.21:966][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan_Physics" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset" SILENT=true
+[2021.09.14-13.29.21:996][ 11]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_PhysicsAD19ED05428E6437A2BE6B88A1AAADF1.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset'
+[2021.09.14-13.29.22:446][ 11]AssetCheck: New page: Asset Save: warrok_w_kurniawan_Physics
+[2021.09.14-13.29.22:447][ 11]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-13.29.27:997][ 97]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.29.32:387][ 97]LogUObjectHash: Compacting FUObjectHashTables data took 108.57ms
+[2021.09.14-13.29.40:149][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.29.40:395][206]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物EB020CDD4298B824257F9E8BCB2B2B23.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.29.40:458][206]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.29.40:458][206]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.31.13:437][761]LogUObjectHash: Compacting FUObjectHashTables data took  14.64ms
+[2021.09.14-13.31.13:463][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.14-13.31.13:773][761]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_Auto6E48B71EB4217DCE5FEAB8FA2A7B8B18F.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto6.umap'
+[2021.09.14-13.31.13:786][761]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.460
+[2021.09.14-13.31.13:786][761]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.460
+[2021.09.14-13.31.13:791][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP-怪物] ([1] browsable assets)...
+[2021.09.14-13.31.13:878][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP-怪物.BP-怪物]
+[2021.09.14-13.31.13:878][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP-怪物]
+[2021.09.14-13.31.13:878][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-13.31.13:991][761]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物_Auto62964057B4BEC8022B2CD6A95600CCE6D.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto6.uasset'
+[2021.09.14-13.31.13:995][761]LogFileHelpers: Auto-saving content packages took 0.209
+[2021.09.14-13.31.48:870][309]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.31.49:107][309]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2021.09.14-13.31.49:828][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.31.49:995][317]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物FC52C6CC436BACF6125CA2A5986D56DE.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.31.50:076][317]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.31.50:076][317]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.33.03:931][622]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.33.07:750][622]LogUObjectHash: Compacting FUObjectHashTables data took  71.99ms
+[2021.09.14-13.33.08:762][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.33.08:990][632]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物FEC3BE064183207792351086201B0B84.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.33.09:404][632]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.33.09:406][632]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.33.42:041][274]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.33.42:233][274]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2021.09.14-13.33.42:965][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.33.43:084][283]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物07585B5E49F1AA7E31C2F8AA1AB52D86.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.33.43:142][283]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.33.43:142][283]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.35.46:994][526]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.35.47:506][526]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2021.09.14-13.35.48:880][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.35.49:241][535]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物D47D74394A63B8CCD6BBBEAB0E4587D1.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.35.49:796][535]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.35.49:798][535]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.36.26:774][323]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.36.28:858][323]LogUObjectHash: Compacting FUObjectHashTables data took  93.93ms
+[2021.09.14-13.36.30:789][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.36.31:098][343]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物D87E5DF044A31FA21727CCB58263ADF5.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.36.31:593][343]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.36.31:596][343]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.37.37:222][527]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.37.38:784][527]LogUObjectHash: Compacting FUObjectHashTables data took  96.66ms
+[2021.09.14-13.37.55:473][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.37.55:805][805]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物1A9DA0E84EB7F41E10B02D8A9B5D99EA.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.37.56:783][805]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.37.56:786][805]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.38.29:537][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.38.29:700][304]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物54B7C94D48D1D5C0913BED99D0AF93B0.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.38.29:747][304]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.38.29:747][304]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.41.11:351][248]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.41.13:829][248]LogUObjectHash: Compacting FUObjectHashTables data took 169.34ms
+[2021.09.14-13.41.36:328][557]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2021.09.14-13.41.36:500][557]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2021.09.14-13.41.36:533][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.14-13.41.36:845][557]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_Auto7AB83323A42F7196F5D2C4795C0180E4B.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto7.umap'
+[2021.09.14-13.41.36:870][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.463
+[2021.09.14-13.41.36:871][557]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.463
+[2021.09.14-13.41.36:877][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP-怪物] ([1] browsable assets)...
+[2021.09.14-13.41.37:543][557]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP-怪物.BP-怪物]
+[2021.09.14-13.41.37:543][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP-怪物]
+[2021.09.14-13.41.37:548][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-13.41.39:106][557]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物_Auto7C9CB0B9E4DE9064461CBB2A7053E8544.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/BP/BP-怪物_Auto7.uasset'
+[2021.09.14-13.41.39:155][557]LogFileHelpers: Auto-saving content packages took 2.283
+[2021.09.14-13.42.01:596][962]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.42.03:107][962]LogUObjectHash: Compacting FUObjectHashTables data took  85.80ms
+[2021.09.14-13.42.15:170][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.42.15:531][137]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物FB87FB24445BB06B8C0EDBB86C19634A.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.42.16:175][137]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.42.16:179][137]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.43.04:861][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.43.05:354][954]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物43C210714D364B90A761E496F3120AF5.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.43.06:794][954]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.43.06:796][954]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.43.15:263][ 79]LogContentBrowser: Attempting asset rename: warrok_w_kurniawan_Physics -> warrok_w_kurniawan_Physics
+[2021.09.14-13.46.35:548][608]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.46.38:342][608]LogUObjectHash: Compacting FUObjectHashTables data took 122.94ms
+[2021.09.14-13.46.42:886][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.46.46:500][612]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物B9F0F5EF47BC1981A81C128C6C886CB6.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.46.48:007][612]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.46.48:009][612]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.47.17:322][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.47.17:754][320]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物BEE478E44F0E33C5B08684B089E7F69D.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.47.19:115][320]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.47.19:116][320]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.49.07:446][356]BlueprintLog: New page: Compile BP-怪物
+[2021.09.14-13.49.12:856][356]LogUObjectHash: Compacting FUObjectHashTables data took 136.62ms
+[2021.09.14-13.49.21:440][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.49.24:890][464]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物ECA07F3F411CBD744E553EBFC63C5193.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.49.25:449][464]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.49.25:450][464]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.49.49:339][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.49.49:473][825]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物79233FC6462E839E2C06AAA2BF885B52.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.49.49:557][825]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.49.49:557][825]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.50.32:466][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.50.32:808][472]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物9F90E11C4EC5B5DBA07E73A1763479E4.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.50.33:691][472]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.50.33:693][472]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.51.42:616][481]LogUObjectHash: Compacting FUObjectHashTables data took 115.08ms
+[2021.09.14-13.51.42:754][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.14-13.51.43:093][481]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_Auto8A203C9A9433C793EDB7F23A1772E70E5.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/Autosaves/Game/地圖/遊戲場景_Auto8.umap'
+[2021.09.14-13.51.43:141][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 2.433
+[2021.09.14-13.51.43:142][481]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.433
+[2021.09.14-13.52.30:468][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.52.30:796][172]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物7571476B4624995FC26FE3A8AFE95154.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.52.32:015][172]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.52.32:017][172]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.52.39:094][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan_Physics" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset" SILENT=true
+[2021.09.14-13.52.39:170][206]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawan_Physics26482476499812E19F3F009DE3A29260.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan_Physics.uasset'
+[2021.09.14-13.52.40:109][206]AssetCheck: New page: Asset Save: warrok_w_kurniawan_Physics
+[2021.09.14-13.52.40:111][206]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/warrok_w_kurniawan_Physics.warrok_w_kurniawan_Physics
+[2021.09.14-13.52.44:042][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-玩家武器" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset" SILENT=true
+[2021.09.14-13.52.44:458][239]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-玩家武器47BD53DB4DD9CB706099CFA373C50516.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-玩家武器.uasset'
+[2021.09.14-13.52.45:262][239]AssetCheck: New page: Asset Save: BP-玩家武器
+[2021.09.14-13.52.45:264][239]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-玩家武器.BP-玩家武器
+[2021.09.14-13.52.48:491][276]LogAnalytics: Warning: EventCache either took too long to flush (8.559 ms) or had a very large payload (0.431 KB, 1 events). Listing events in the payload for investigation:
+[2021.09.14-13.52.48:492][276]LogAnalytics: Warning:     Editor.Usage.Heartbeat,428
+[2021.09.14-13.52.49:335][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA-怪物動畫" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BA-怪物動畫.uasset" SILENT=true
+[2021.09.14-13.52.50:713][282]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BA-怪物動畫00C52312452E8026C136C2976C3FB43E.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BA-怪物動畫.uasset'
+[2021.09.14-13.52.52:063][282]AssetCheck: New page: Asset Save: BA-怪物動畫
+[2021.09.14-13.52.52:063][282]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA-怪物動畫.BA-怪物動畫
+[2021.09.14-13.52.53:810][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS-怪物等待走路與跑步" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BS-怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-13.52.53:822][296]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BS-怪物等待走路與跑步2137AD2146A7E4684AB019AF78E71B53.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BS-怪物等待走路與跑步.uasset'
+[2021.09.14-13.52.53:852][296]AssetCheck: New page: Asset Save: BS-怪物等待走路與跑步
+[2021.09.14-13.52.53:853][296]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS-怪物等待走路與跑步.BS-怪物等待走路與跑步
+[2021.09.14-13.52.57:526][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-子彈" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset" SILENT=true
+[2021.09.14-13.52.57:748][332]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-子彈A41348524840A6983650E4A0D8096545.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-子彈.uasset'
+[2021.09.14-13.52.57:798][332]AssetCheck: New page: Asset Save: BP-子彈
+[2021.09.14-13.52.57:798][332]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-子彈.BP-子彈
+[2021.09.14-13.52.59:447][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP-怪物" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset" SILENT=true
+[2021.09.14-13.52.59:698][356]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/BP-怪物C64003A44A23944CBEC9A5AF2117E772.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/BP/BP-怪物.uasset'
+[2021.09.14-13.52.59:744][356]AssetCheck: New page: Asset Save: BP-怪物
+[2021.09.14-13.52.59:744][356]LogContentValidation: Display: Validating Blueprint /Game/BP/BP-怪物.BP-怪物
+[2021.09.14-13.53.02:362][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-13.53.06:984][394]LogUObjectHash: Compacting FUObjectHashTables data took 104.78ms
+[2021.09.14-13.53.07:566][394]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景8B2CAAD74FD2DC6FFB251F9EC3BF1844.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景.umap'
+[2021.09.14-13.53.08:002][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-13.53.08:376][394]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/遊戲場景_BuiltData16F9220C4567CCBD23AD56888DBF98DB.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-13.53.09:596][394]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-13.53.09:600][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-13.53.09:605][394]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-13.53.14:551][398]LogUObjectHash: Compacting FUObjectHashTables data took 1534.14ms
+[2021.09.14-13.53.17:461][398]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-13.53.17:901][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/warrok_w_kurniawan" FILE="../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan.uasset" SILENT=true
+[2021.09.14-13.53.18:364][398]LogSavePackage: Moving '../../../../../../../../../../../Epic Games/3D-END/01/U01/Saved/warrok_w_kurniawanE613CE6E454791E58CAB3482A4584F4D.tmp' to '../../../../../../../../../../../Epic Games/3D-END/01/U01/Content/怪物/warrok_w_kurniawan.uasset'
+[2021.09.14-13.53.19:288][398]AssetCheck: New page: Asset Save: warrok_w_kurniawan
+[2021.09.14-13.53.19:292][398]LogContentValidation: Display: Validating SkeletalMesh /Game/怪物/warrok_w_kurniawan.warrok_w_kurniawan
+[2021.09.14-13.53.39:286][729]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-13.53.39:525][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-13.53.39:578][729]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午5:53:39)
+[2021.09.14-13.53.39:665][729]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.14-13.53.39:697][729]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.14-13.53.39:709][729]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.53.40:244][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.527926s)
+[2021.09.14-13.53.40:373][729]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-13.53.40:432][729]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Texture.cpp:534 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ Size=1024x1024x1 PF=10 D3DFormat=DXGI_FORMAT_R16G16B16A16_FLOAT(0x0000000A), NumMips=1, Flags=D3D11_BIND_RENDER_TARGET D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2021.09.14-13.53.40:435][729]LogD3D11RHI: [Aftermath] GDynamicRHI=000001E17E2C5E80, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.09.14-13.53.40:435][729]LogWindows: Windows GetLastError: 操作順利完成。 (0)
+[2021.09.14-13.53.40:436][729]LogPlayLevel: PIE: World Init took: (0.187353s)
+[2021.09.14-13.53.40:438][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.729408s)
+[2021.09.14-13.53.46:686][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: Warning: SymLoadModuleExW. Error: -529697949
+[2021.09.14-13.53.46:696][729]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.09.14-13.53.46:696][729]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.09.14-13.53.46:697][729]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.09.14-13.53.46:697][729]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.09.14-13.53.46:709][729]Log file closed, 09/14/21 21:53:46
